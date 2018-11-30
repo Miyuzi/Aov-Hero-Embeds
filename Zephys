@@ -1,0 +1,69 @@
+!Tag add !Zephys {
+
+  "author": {
+
+    "name": "Zephys ",
+
+    "icon_url": "https://i.imgur.com/yfptDE9.png"
+
+  },
+
+  "color": 53380,
+
+  "footer": {
+
+    "text": "Tier: S-",
+
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+
+  },
+
+  "thumbnail": "https://imgur.com/ONeQKbi.png",
+
+  "image": "https://imgur.com/j2vrVKy.png", 
+
+  "fields": [
+
+    {
+
+      "name": "Position",
+
+      "value": "Jungle", 
+
+      "inline": true
+
+    },
+
+    {
+
+      "name": "Arcanas",
+
+      "value": "Onslaught, Assassinate , Skewer",
+
+      "inline": false
+
+    },
+
+    {
+
+      "name": "Build + {pun} ",
+
+      "value": "{lev} {gg} {rb} {fc} {ft} {mot}\n\n{lev} {gg} {mor} {rb} {oa} {mot}",
+
+      "inline": false
+
+    },
+
+    {
+
+      "name": "Useful Links",
+
+      "value": "Click [here](https://youtu.be/nt9mcoffuLE) to check out Zephys'  Hero Spotlight!",
+
+      "inline": false
+
+    }
+
+  ]
+
+}
