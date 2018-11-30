@@ -1,0 +1,69 @@
+!tag add !Y'nbeth {
+
+  "author": {
+
+    "name": "Y'bneth",
+
+    "icon_url": "https://i.imgur.com/R0YeVnB.png"
+
+  },
+
+  "color": 53380,
+
+  "footer": {
+
+    "text": "Tier: S",
+
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+
+  },
+
+  "thumbnail": "https://i.imgur.com/kvCpvvM.png",
+
+  "image": "https://lh3.googleusercontent.com/f1n3WqwXnyIi3UUE8nn-6MAIN9O8I90NQNT6b7O2PEfMDEzaYLvTXZ-HKEsSiuMkUDFhKNmLgDhsOYZ22yjc=w2572-h4068-rw",
+
+  "fields": [
+
+    {
+
+      "name": "Position",
+
+      "value": "Slayer Lane, Abysall Lane, Roam",
+
+      "inline": true
+
+    },
+
+    {
+
+      "name": "Arcanas",
+
+      "value": "Onslaught, Benevolence, Skewer",
+
+      "inline": true
+
+    },
+
+    {
+
+      "name": "Build + {fli}",
+
+      "value": "{mor} {gg} {sol} {mot} {sotl} {boe}\n\n{eotw} {gg} {ta} {gs} {sotl} {boe}",
+
+      "inline": false
+
+    },
+
+    {
+
+      "name": "Useful Links",
+
+      "value": "Click [here](https://www.youtube.com/watch?v=ieJ9Y9meJoo) to check out Y'bneth's Hero Spotlight!",
+
+      "inline": false
+
+    }
+
+  ]
+
+}
