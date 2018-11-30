@@ -1,0 +1,65 @@
+!Tag add !xeniel {
+
+  "author": { "name": "Xeniel", "icon_url": "https://i.imgur.com/R0YeVnB.png"
+
+  },
+
+  "color": 53380,
+
+  "footer": {
+
+    "text": "Tier: A-",
+
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+
+  },
+
+  "thumbnail": "https://imgur.com/vyWPxTW.png",
+
+  "image": "https://imgur.com/VE2UULg.png", 
+
+  "fields": [
+
+    {
+
+      "name": "Position",
+
+      "value": "Slayer Lane ",
+
+      "inline": true
+
+    },
+
+    {
+
+      "name": "Arcanas",
+
+      "value": "Indomitable, Benevolence, Valiance",
+
+      "inline": false
+
+    },
+
+    {
+
+      "name": "Build + {pun}",
+
+      "value": "{lev} {gg} {fc} {sotl} {mot} {rs}\n\n{lev} {gg} {fc} {sotl} {mot} {aol}",
+
+      "inline": false
+
+    },
+
+    {
+
+      "name": "Useful Links",
+
+      "value": "Click [here](https://youtu.be/lOBpwC7udNE) to check out Xeniel's  Hero Spotlight!",
+
+      "inline": false
+
+    }
+
+  ]
+
+}
