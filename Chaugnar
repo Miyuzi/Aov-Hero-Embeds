@@ -1,0 +1,69 @@
+!Tag add !chaugnar {
+
+  "author": {
+
+    "name": "Chaugnar",
+
+    "icon_url": "https://i.imgur.com/tUMClbT.png"
+
+  },
+
+  "color": 53380,
+
+  "footer": {
+
+    "text": "Tier: A",
+
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+
+  },
+
+  "thumbnail": "https://i.imgur.com/oof0gpz.png",
+
+  "image": "https://i.imgur.com/LMcxywq.jpg", 
+
+  "fields": [
+
+    {
+
+      "name": "Position",
+
+      "value": "Roam",
+
+      "inline": true
+
+    },
+
+    {
+
+      "name": "Arcanas",
+
+      "value": "Indomitable, Benevolence, Valiance",
+
+      "inline": false
+
+    },
+
+    {
+
+      "name": "Build + {hea}",
+
+      "value": "{eotw} {sb} {ta} {gs} {fr} {rs}",
+
+      "inline": false
+
+    },
+
+    {
+
+      "name": "Useful Links",
+
+      "value": "Click [here](https://www.youtube.com/watch?v=HS6vRPR1lvw) to check out Chaugnar´s Hero Spotlight!",
+
+      "inline": false
+
+    }
+
+  ]
+
+}
