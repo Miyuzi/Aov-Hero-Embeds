@@ -1,0 +1,69 @@
+!Tag add !Nakroth {
+
+  "author": {
+
+    "name": "Nakroth",
+
+    "icon_url": "https://c-8oqtgrjgwu0x24f3w7r5n6yrca5mx2eenqwfhtqpvx2epgv.g00.gamepedia.com/g00/3_c-8ctgpcqhx78cnqt.icogrgfkc.eqo_/c-8OQTGRJGWU0x24jvvrux3ax2fx2ff3w7r5n6yrca5m.enqwfhtqpv.pgvx2fuvtkmgqhmkpiu_icogrgfkc_gpx2fvjwodx2f5x2f5hx2fCuucuukp_Keqp.rpix2f82rz-Cuucuukp_Keqp.rpix3fx78gtukqpx3d2c6e9hh03814e40f55gec83c40eg922gx26k32e.octmx3dkocig_$/$/$/$/$/$/$"
+
+  },
+
+  "color": 53380,
+
+  "footer": {
+
+    "text": "Tier: A",
+
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+
+  },
+
+  "thumbnail": "https://pro.moba.garena.co.id/admin/assets/uploads/daf34-icon_nakroth_base.jpg",
+
+  "image": "http://aov.hasagi.gg/wp-content/uploads/2018/08/Neon-Nakroth.jpg", 
+
+  "fields": [
+
+    {
+
+      "name": "Position",
+
+      "value": "Jungle",
+
+      "inline": true
+
+    },
+
+    {
+
+      "name": "Arcanas",
+
+      "value": "Atrocity, Reave, Skewer",
+
+      "inline": false
+
+    },
+
+    {
+
+      "name": "Build + {pun}",
+
+      "value": "{sr} {gg} {rb} {oa} {sotl} {mot}\n\n{lev} {gg} {rb} {mor} {oa} {ft}",
+
+      "inline": false
+
+    },
+
+    {
+
+      "name": "Useful Links",
+
+      "value": "Click [here](https://www.youtube.com/watch?v=z56ncGRZOpY) to check out Nakroth's Hero Spotlight!",
+
+      "inline": false
+
+    }
+
+  ]
+
+}
