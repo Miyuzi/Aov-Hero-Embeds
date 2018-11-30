@@ -1,0 +1,69 @@
+!Tag add !raz {
+
+  "author": {
+
+    "name": "Raz",
+
+    "icon_url": "https://i.imgur.com/2ykK0bh.png"
+
+  },
+
+  "color": 53380,
+
+  "footer": {
+
+    "text": "Tier: A",
+
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+
+  },
+
+  "thumbnail": "https://i.imgur.com/3eqGRqg.png",
+
+  "image": "https://i.imgur.com/1p5fblZ.jpg", 
+
+  "fields": [
+
+    {
+
+      "name": "Position",
+
+      "value": "Midlane, Abyssal",
+
+      "inline": true
+
+    },
+
+    {
+
+      "name": "Arcanas",
+
+      "value": "Violate, Guerilla, Flurry",
+
+      "inline": false
+
+    },
+
+    {
+
+      "name": "Build + {fli} or {exe}",
+
+      "value": "{pt} {gg} {boo} {ba} {hd} {son}",
+
+      "inline": false
+
+    },
+
+    {
+
+      "name": "Useful Links",
+
+      "value": "Click [here](https://youtu.be/Ilx2w82_Fkc) to check out Raz’s Hero Spotlight!",
+
+      "inline": false
+
+    }
+
+  ]
+
+}
