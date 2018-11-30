@@ -1,0 +1,69 @@
+!Tag add !ryoma {
+
+  "author": {
+
+    "name": "Ryoma",
+
+    "icon_url": "https://i.imgur.com/K29f4f8.png"
+
+  },
+
+  "color": 53380,
+
+  "footer": {
+
+    "text": "Tier: A+",
+
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+
+  },
+
+  "thumbnail": "https://i.imgur.com/1WexEip.jpg",
+
+  "image": "https://imgur.com/wIEywzd.png", 
+
+  "fields": [
+
+    {
+
+      "name": "Position",
+
+      "value": "Jungle, Slayer Lane",
+
+      "inline": true
+
+    },
+
+    {
+
+      "name": "Arcanas",
+
+      "value": "Onslaught, Assassinate, Skewer",
+
+      "inline": false
+
+    },
+
+    {
+
+      "name": "Build + {pun} or {fli} or {exe}",
+
+      "value": "{sr} {gg} {rb} {ft} {mur} {oa}\n\n{rb} {gg} {fc} {sotl} {mur} {boe}",
+
+      "inline": false
+
+    },
+
+    {
+
+      "name": "Useful Links",
+
+      "value": "Click [here](https://youtu.be/1bX5YKSE8WU) to check out Ryoma’s Hero Spotlight!",
+
+      "inline": false
+
+    }
+
+  ]
+
+}
