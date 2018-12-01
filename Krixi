@@ -1,0 +1,35 @@
+!tag add !krixi {
+  "author": {
+    "name": "Krixi",
+    "icon_url": "https://i.imgur.com/2ykK0bh.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://imgur.com/OytuWeg.png",
+  "image": "https://imgur.com/ONDC1KA.png", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Midlane", 
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Violate, Benevolence, Flurry",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{pt} {fb} {boo} {hd} {rbl} {son}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=FBuSmEUXu7Y) to check out Krixi's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
