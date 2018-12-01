@@ -1,0 +1,35 @@
+!tag add !gildur {
+  "author": {
+    "name": "Gildur",
+    "icon_url": "https://i.imgur.com/2ykK0bh.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://imgur.com/qcSzQ8R.png",
+  "image": "https://imgur.com/5DcSVOL.png", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Roam", 
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Indomitable, Guerilla, Valiance",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{eotw} {gg} {ta} {gs} {sotl} {rs}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=DgN1DmrZQZk) to check out Gildur's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
