@@ -1,0 +1,35 @@
+!tag add !valhein {
+  "author": {
+    "name": "Valhein",
+    "icon_url": "https://i.imgur.com/KjCyGsc.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: A+",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://imgur.com/WDBJnRj.png",
+  "image": "https://imgur.com/bsG6JTO.png", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Abyssal, Slayer", 
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Blitz, Guerilla, Flurry",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{pt} {gg} {bb} {fc} {ea} {boe}\n\n{pt} {wb} {bb} {ea} {zh} {rbl}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=V2E3m3pOJYA) to check out Valhein's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
