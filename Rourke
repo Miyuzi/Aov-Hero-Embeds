@@ -1,0 +1,35 @@
+!tag add !rourke {
+  "author": {
+    "name": "Rourke",
+    "icon_url": "https://i.imgur.com/yfptDE9.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://imgur.com/CSoFqfc.png",
+  "image": "https://i.imgur.com/MigC8js.png", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Jungle",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Blitz, Guerilla, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {pun}",
+      "value": "{sw} {wb} {sol} {fc} {ft} {fta}\n\n{sw} {wb} {rb} {fta} {oa} {ft}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=LoqKHjoMfeQ) to check out Rourke's hero spotlight!",
+      "inline": false
+    }
+  ]
+}
