@@ -1,0 +1,69 @@
+!tag add !tel'annas {
+
+  "author": {
+
+    "name": "Tel'Annas",
+
+    "icon_url": "https://i.imgur.com/KjCyGsc.png"
+
+  },
+
+  "color": 53380,
+
+  "footer": {
+
+    "text": "Tier: B+",
+
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+
+  },
+
+  "thumbnail": "https://imgur.com/yAdz3Rp.png",
+
+  "image": "https://imgur.com/Q8n0S2m.png", 
+
+  "fields": [
+
+    {
+
+      "name": "Position",
+
+      "value": "Abyssal", 
+
+      "inline": true
+
+    },
+
+    {
+
+      "name": "Arcanas",
+
+      "value": "Atrocity, Guerilla, Skewer",
+
+      "inline": false
+
+    },
+
+    {
+
+      "name": "Build + {fli} ",
+
+      "value": "{wb} {fta} {cs} {rb} {ss} {ft}",
+
+      "inline": false
+
+    },
+
+    {
+
+      "name": "Useful Links",
+
+      "value": "Click [here](https://www.youtube.com/watch?v=zgJxZ2ttJIE) to check out Tel'Annas'  Hero Spotlight!",
+
+      "inline": false
+
+    }
+
+  ]
+
+}
