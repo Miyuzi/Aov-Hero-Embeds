@@ -1,0 +1,35 @@
+!tag add !kil'groth {
+  "author": {
+    "name": "Kil'groth",
+    "icon_url": "https://i.imgur.com/yfptDE9.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/dYwX2L3.png",
+  "image": "https://i.imgur.com/nK7aNeX.jpg", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Slayer",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Blitz, Guerilla, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {pun}",
+      "value": "{sw} {sb} {fta} {ea} {sotl} {hm}\n\n{sw} {sb} {fta} {ea} {ow} {hm}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=41ayOIhvo8E) to check Kil'groth's hero spotlight!",
+      "inline": false
+    }
+  ]
+}
