@@ -1,0 +1,35 @@
+!tag add !lauriel {
+  "author": {
+    "name": "Lauriel",
+    "icon_url": "https://i.imgur.com/2ykK0bh.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: A",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://imgur.com/YfiPIwv.png",
+  "image": "https://imgur.com/clLe4hu.png", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Midlane", 
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Enlightened, Benevolence, Hex",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} or {pur} ",
+      "value": "{ootm} {gg} {ta} {fr} {hd} {ao}\n\n{pt} {fb} {rbl} {ba} {fr} {ao}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=JSDRnr9_fkE) to check out Lauriel's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
