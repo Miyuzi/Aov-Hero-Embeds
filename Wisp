@@ -1,0 +1,36 @@
+!tag remove !wisp
+!tag add !wisp {
+  "author": {
+    "name": "Wisp",
+    "icon_url": "https://i.imgur.com/KjCyGsc.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://imgur.com/v0Pa97y.png",
+  "image": "https://imgur.com/QIPhocx.png", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Jungle", 
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Atrocity, Guerilla, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {pun} ",
+      "value": "{sw} {wb} {fta} {cs} {mur} {ss}\n\n{fta} {wb} {cs} {rb} {ss} {ft}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=ogzbXeycl-4) to check out Wisp's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
