@@ -1,0 +1,35 @@
+!tag add !marja {
+  "author": {
+    "name": "Marja",
+    "icon_url": "https://i.imgur.com/2ykK0bh.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: S-",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://imgur.com/0EjGkTz.png",
+  "image": "https://imgur.com/55xwozO.png", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Abyssal, Slayer", 
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "8 Indomitable 2 Violate, Benevolence, Flurry",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{fb} {ba} {fr} {rbl} {sa} {ao}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=TNKyJeZKn3Q) to check out Marja's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
