@@ -1,0 +1,35 @@
+!tag add !preyta {
+  "author": {
+    "name": "Preyta",
+    "icon_url": "https://i.imgur.com/2ykK0bh.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://imgur.com/VOog9dV.png",
+  "image": "https://imgur.com/IEuy4ge.png", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Midlane", 
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Violate, Guerilla, Flurry",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{pt} {fb} {boo} {hd} {rbl} {son}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=VHJp622vJyw) to check out Preyta's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
