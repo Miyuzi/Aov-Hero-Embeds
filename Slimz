@@ -1,0 +1,69 @@
+!Tag add !slimz {
+
+  "author": {
+
+    "name": "Slimz",
+
+    "icon_url": "https://i.imgur.com/KjCyGsc.png"
+
+  },
+
+  "color": 53380,
+
+  "footer": {
+
+    "text": "Tier: SS",
+
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+
+  },
+
+  "thumbnail": "https://imgur.com/he7Bu2t.png",
+
+  "image": "https://imgur.com/1TRPKF0.png", 
+
+  "fields": [
+
+    {
+
+      "name": "Position",
+
+      "value": "Jungle", 
+
+      "inline": true
+
+    },
+
+    {
+
+      "name": "Arcanas",
+
+      "value": "8 Blitz 2 Atrocity, Guerilla, Skewer",
+
+      "inline": false
+
+    },
+
+    {
+
+      "name": "Build + {pun} ",
+
+      "value": "{sw} {gg} {cs} {fta} {mur} {ss}",
+
+      "inline": false
+
+    },
+
+    {
+
+      "name": "Useful Links",
+
+      "value": "Click [here](https://www.youtube.com/watch?v=IxgcA2-yZM4) to check out Slimz'  Hero Spotlight!",
+
+      "inline": false
+
+    }
+
+  ]
+
+}
