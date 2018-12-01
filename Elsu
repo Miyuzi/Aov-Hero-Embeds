@@ -1,4 +1,4 @@
-!Tag add !elsu {
+!tag add !elsu {
 
   "author": {
 
@@ -10,7 +10,7 @@
 
   "color": 53380,
 
-  "image": "https://lh6.googleusercontent.com/gwARMX3xvsnlq-I3Q81qnXFCN7XciSZv_KZRPTtB7_KEdm3l-2KUcqbhpS1I1lixXeKfb8knHjwYnqaHwuyc=w2572-h4068-rw", 
+  "image": "https://i.imgur.com/I37uPnN.jpg", 
 
   "footer": {
 
@@ -28,7 +28,7 @@
 
       "name": "Position",
 
-      "value": "Mid, Abysall Lane",
+      "value": "Mid, Abyssal Lane",
 
       "inline": true
 
