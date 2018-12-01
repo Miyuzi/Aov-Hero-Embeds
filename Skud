@@ -1,0 +1,35 @@
+!Tag add !skud {
+  "author": {
+    "name": "Skud",
+    "icon_url": "https://i.imgur.com/yfptDE9.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: A",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/ml7d80E.png",
+  "image": "https://i.imgur.com/15NyFa5.jpg", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Slayer, Abyssal",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "8 Onslaught, 2 Atrocity, Assasinate, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {exe} or {fli}",
+      "value": "{mor} {gg} {rb} {oa} {ft} {mot}\n\n{rb} {hs} {oa} {ft} {ds} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=oU3R1-Ys0w8) to check out Skud's hero spotlight!",
+      "inline": false
+    }
+  ]
+}
