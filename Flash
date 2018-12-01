@@ -1,0 +1,35 @@
+!tag add !flash {
+  "author": {
+    "name": "The Flash",
+    "icon_url": "https://i.imgur.com/2ykK0bh.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: A",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://imgur.com/zPWnARR.png",
+  "image": "https://imgur.com/tjxmvDm.png", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Midlane", 
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Violate, Benevolence, Flurry",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{ootm} {gg} {hd} {apo} {rbl} {son}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=-CslHDDyKiY) to check out The Flash's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
