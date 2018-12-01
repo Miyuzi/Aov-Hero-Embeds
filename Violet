@@ -1,0 +1,35 @@
+!tag add !violet {
+  "author": {
+    "name": "Violet",
+    "icon_url": "https://i.imgur.com/KjCyGsc.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: S",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://imgur.com/lcKyUzb.png",
+  "image": "https://imgur.com/YWXeXXX.png", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Jungle", 
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Atrocity, Assasinate, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {pun} ",
+      "value": "{sr} {gg} {rb} {cs} {oa} {mur}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=hj8oHzqO9Hw) to check out Violet's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
