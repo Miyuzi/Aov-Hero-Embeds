@@ -1,0 +1,35 @@
+!tag add !yorn {
+  "author": {
+    "name": "Yorn",
+    "icon_url": "https://i.imgur.com/KjCyGsc.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: A+",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://imgur.com/tyOmW9k.png",
+  "image": "https://imgur.com/Fbw6Qf0.png", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Abyssal, Slayer", 
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Atrocity, Guerilla, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{wb} {fta} {cs} {rb} {ss} {ft}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=pCpqOgbR7i8) to check out Yorn's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}
