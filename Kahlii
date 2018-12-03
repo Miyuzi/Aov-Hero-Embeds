@@ -1,0 +1,35 @@
+!Tag add !Kahlii {
+  "author": {
+    "name": "Kahlii",
+    "icon_url": "https://i.imgur.com/2ykK0bh.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/KJJcjrG.png",
+  "image": "https://i.imgur.com/4ffKzqR.jpg", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Mid",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Violate, Guerilla, Flurry",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{pt} {fb} {fr} {hd} {sm} {apo}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=iIVfOGD-pD0) to check out Kahlii's hero spotlight!",
+      "inline": false
+    }
+  ]
+}
