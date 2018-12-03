@@ -1,0 +1,35 @@
+!tag add !mina {
+  "author": {
+    "name": "Mina",
+    "icon_url": "https://i.imgur.com/R0YeVnB.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: S+",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/tV1Kygz.png",
+  "image": "https://i.imgur.com/CGHxtzb.png", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Roam",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Indomitable, Benevolence, Valiance",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli}",
+      "value": "{eotw} {gg} {ta} {gs} {sotl} {boe}\n\n{eotw} {gg} {mor} {ta} {mot} {rs}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=tQyQIqZlCW4) to check out Mina's hero spotlight!",
+      "inline": false
+    }
+  ]
+}
