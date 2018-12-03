@@ -1,0 +1,35 @@
+!Tag add !ormarr {
+  "author": {
+    "name": "Ormarr",
+    "icon_url": "https://i.imgur.com/tUMClbT.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/MhnV3HA.png",
+  "image": "https://i.imgur.com/mdquU07.jpg", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Roam",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Indomitable, Benevolence,  Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{eotw} {gg} {ta} {gs} {sotl} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=YLQkbW75mBY) to check out Ormarr's hero spotlight!",
+      "inline": false
+    }
+  ]
+}
