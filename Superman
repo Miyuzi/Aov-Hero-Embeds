@@ -1,0 +1,35 @@
+!Tag add !superman {
+  "author": {
+    "name": "Superman",
+    "icon_url": "https://i.imgur.com/yfptDE9.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: A",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/g7XDDzx.png",
+  "image": "https://i.imgur.com/P119OnM.png", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Slayer, Abyssal, Roam",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Indomitable, Assasinate, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {pur} or {spr}",
+      "value": "{gg} {mop} {rb} {gs} {sotl} {boe}\n\n{gg} {rb} {sotl} {gs} {mur} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=ETFuRWRmlMY) to check out Superman's hero spotlight!",
+      "inline": false
+    }
+  ]
+}
