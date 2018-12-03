@@ -1,0 +1,35 @@
+!Tag add !amily {
+  "author": {
+    "name": "Amily",
+    "icon_url": "https://i.imgur.com/yfptDE9.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/oWl7YOj.png",
+  "image": "https://i.imgur.com/7VdK0uk.jpg", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Slayer, Jungle",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Onslaught, Guerilla, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": "{mor} {gg} {sol} {fc} {mot} {boe}\n\n{sr} {gg} {mor} {rb} {oa} {boe}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=xs3tjTGcet8) to check out Amily's hero spotlight!",
+      "inline": false
+    }
+  ]
+}
