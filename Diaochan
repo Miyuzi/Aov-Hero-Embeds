@@ -1,0 +1,35 @@
+!Tag add !Diaochan {
+  "author": {
+    "name": "Diaochan",
+    "icon_url": "https://i.imgur.com/K29f4f8.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: B",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/fQ3WbuF.png",
+  "image": "https://i.imgur.com/bnTHFSB.jpg", 
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Mid",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Violate, Benevolence, Flurry",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli}",
+      "value": "{pt} {ek} {boo} {hd} {rbl} {son}",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=sR3SQVyRs3I) to check out Diaochan's hero spotlight!",
+      "inline": false
+    }
+  ]
+}
